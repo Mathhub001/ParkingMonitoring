@@ -1,0 +1,6 @@
+ParkingMonitoring/
+├── app.py                  # Copy the optimized app.py I gave you
+├── requirements.txt        # Copy the requirements.txt content
+├── README.md               # Copy the README.md content
+├── snapshots/              # Empty folder
+└── yolov8n.pt              # Optional: YOLO model file (or let it auto-download)
